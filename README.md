@@ -2,7 +2,7 @@
 
 Day1 (20-09-2021)-Decision Tree Implementation and use salaries.csv file 
 
-Day2 :( 21-09-2021)- Random
+Day2 :( 21-09-2021)-  Random Forecasting Model.
 
 Day3 :(23-09-2021) - 
 
