@@ -6,4 +6,4 @@ Day2 :( 21-09-2021)-  Random Forecasting Model.
 
 Day3 :(23-09-2021) - Intrduction to Naive-bayes and its formulas. 1 to 5  photos were included.
 
-Day 4:(24-09-2021)-  Naive-Bayes Implementation  with example iris.csv file is used.
+Day 4:(24-09-2021)-  Naive Bayes Gaussian alrorithum Implementation  with example.
